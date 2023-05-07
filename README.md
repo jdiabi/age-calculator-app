@@ -52,5 +52,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Erick Melchor](https://github.com/jdiabi)
-- Frontend Mentor - [@Melchor16](https://www.frontendmentor.io/profile/jdiabi)
+- Website - [Julie Diabinho](https://github.com/jdiabi)
+- Frontend Mentor - [@jdiabi](https://www.frontendmentor.io/profile/jdiabi)
