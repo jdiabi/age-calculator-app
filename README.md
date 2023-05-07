@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/jdiabi/age-calculator-app)
+- [Solution URL](https://www.frontendmentor.io/solutions/age-calculator-app-lsFEeLAbkh)
 - [Live Site URL](https://jdiabi.github.io/age-calculator-app/)
 
 ## My process
